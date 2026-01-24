@@ -44,11 +44,11 @@ export function About() {
                     </div>
                     <pre className="text-terminal-green overflow-x-auto">
                         {`{
-  "name": "Kiarie Kami Josephat",
-  "role": "ML Engineer / Data Scientist",
-  "location": "Nairobi, Kenya",
-  "status": "Available for hire",
-  "interests": [
+  "Name": "Kiarie Kami Josephat",
+  "Role": "ML Engineer / Data Scientist",
+  "Location": "Nairobi, Kenya",
+  "Status": "Available for hire",
+  "Interests": [
     "Data Science",
     "Machine Learning",
     "Deep Learning",
