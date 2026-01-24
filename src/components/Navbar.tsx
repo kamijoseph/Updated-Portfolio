@@ -32,7 +32,7 @@ export function Navbar() {
                 <div className="flex items-center gap-2">
                     <Cpu className="text-terminal-green w-8 h-8" />
                     <span className="text-xl font-bold font-pixel tracking-tighter text-white">
-                        KAMI.AI
+                        KAMI.ML
                     </span>
                 </div>
 

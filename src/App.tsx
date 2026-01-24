@@ -16,10 +16,10 @@ function App() {
         {/* Overlay Title - optional, but helps immediate context */}
         <div className="relative z-10 pointer-events-none text-center mt-32 md:mt-0">
           <h1 className="text-4xl md:text-6xl font-pixel text-transparent bg-clip-text bg-gradient-to-r from-white to-gray-500 mb-4 drop-shadow-lg opacity-80 mix-blend-difference">
-            KAMI.AI
+            KAMI.ML
           </h1>
           <p className="text-terminal-green font-mono text-sm tracking-[0.2em] animate-pulse">
-            MACHINE LEARNING ENGINEER
+            ML ENGINEER | DATA SCIENTIST | PYTHON DEVELOPER
           </p>
         </div>
       </section>
