@@ -24,10 +24,10 @@ export function About() {
                     <div className="border border-gray-800 p-4 bg-gray-900/50">
                         <h4 className="text-terminal-green text-sm mb-2 font-pixel">Core_Stack</h4>
                         <ul className="text-xs text-gray-500 space-y-2 font-mono">
-                            <li>Python / TensorFlow / PyTorch</li>
-                            <li>SQL / Tableau / PowerBI</li>
-                            <li>Scikit-learn / Pandas</li>
-                            <li>Streamlit / Flask</li>
+                            <li>Python / Pandas/ TensorFlow</li>
+                            <li>Numpy / SQL / Tableau</li>
+                            <li>Scikit-learn / NLTK</li>
+                            <li>Streamlit / FastAPI</li>
                         </ul>
                     </div>
                 </div>
