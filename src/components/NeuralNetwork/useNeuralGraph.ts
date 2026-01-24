@@ -96,7 +96,7 @@ export function useNeuralGraph(width: number, height: number) {
                 if (section) {
                     section.scrollIntoView({ behavior: 'smooth' });
                 } else if (node.id === 'resume') {
-                    window.open('https://kamijoseph.github.io/public/resume.pdf', '_blank');
+                    window.open('/resume.pdf', '_blank');
                 }
             }
         }
