@@ -29,7 +29,7 @@ const projects = [
         title: "Personalised Fitness",
         desc: "Personalised Health and Fitness WebApp.",
         tech: ["Streamlit", "Health"],
-        link: "https://personalised-health-and-fitness.streamlit.app/",
+        link: "https://health-and-fitness.streamlit.app",
         github: "https://github.com/kamijoseph/Personalised-Health-and-Fitness",
         type: "Health"
     },
