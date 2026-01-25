@@ -5,7 +5,7 @@ const projects = [
         title: "Multiple Diseases Diagnosis",
         desc: "ML powered disease diagnosis WebApp.",
         tech: ["Streamlit", "ML"],
-        link: "https://multiple-disease-diagnosis-prediction-webapp-emhpxuygqikbckvaz.streamlit.app/",
+        link: "https://multiple-disease-diagnosis-prediction.streamlit.app",
         github: "https://github.com/kamijoseph/Multiple-Disease-Diagnosis-Prediction-WebApp",
         type: "Healthcare"
     },
