@@ -85,7 +85,7 @@ const projects = [
         title: "Human Emotions Classifier",
         desc: "Image and Text emotions detection.",
         tech: ["Deep Learning", "NLP"],
-        link: null,
+        link: "https://github.com/kamijoseph/Text-Emotions-Detection",
         github: "https://github.com/kamijoseph/FER2013-Emotion-Detection",
         type: "AI Research"
     },
