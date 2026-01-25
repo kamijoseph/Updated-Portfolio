@@ -37,7 +37,7 @@ const projects = [
         title: "Cat Vs. Dog",
         desc: "MobileNetV2 Powered Classification.",
         tech: ["TensorFlow", "Computer Vision"],
-        link: "https://cat-vs-dog-classification.streamlit.app/",
+        link: "https://cat-dog-moilenetv2-classifier.streamlit.app",
         github: "https://github.com/kamijoseph/Cat-Vs.-Dog-",
         type: "CV"
     },
