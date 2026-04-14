@@ -19,7 +19,7 @@ function App() {
             KAMI.ML
           </h1>
           <p className="text-terminal-green font-mono text-sm tracking-[0.2em] animate-pulse">
-            ML ENGINEER | DATA SCIENTIST | PYTHON DEVELOPER
+            ML & AI ENGINEER | DATA SCIENTIST | PYTHON DEVELOPER
           </p>
         </div>
       </section>
