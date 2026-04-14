@@ -6,9 +6,9 @@ export function About() {
             <div className="space-y-6">
                 <h3 className="text-xl text-neon-blue font-mono">// WHO_AM_I</h3>
                 <p className="text-gray-400 font-mono leading-relaxed">
-                    I am a Data Scientist, Data Analyst, and ML Engineer based in Nairobi, Kenya.
+                    I am a ML Engineer, Data Scientist, and AI Engineer based in Nairobi, Kenya.
                     I specialize in transforming raw data into actionable insights and building
-                    deployable machine learning models for diverse sectors including business,
+                    deployable machine learning models & AI Agents for diverse sectors including business,
                     health, agriculture, education, and security.
                 </p>
 
@@ -16,17 +16,17 @@ export function About() {
                     <div className="border border-gray-800 p-4 bg-gray-900/50">
                         <h4 className="text-terminal-green text-sm mb-2 font-pixel">Experience</h4>
                         <ul className="text-xs text-gray-500 space-y-2 font-mono">
-                            <li>2+ Years Freelance Engineer</li>
-                            <li>1 Year Data Scientist at Fate Dynamics</li>
+                            <li>2+ Years Freelance AI Engineer</li>
+                            <li>1 Year ML Engineer at Fate Dynamics</li>
                             <li>Data Analyst Intern at Ministry of Youths</li>
                         </ul>
                     </div>
                     <div className="border border-gray-800 p-4 bg-gray-900/50">
                         <h4 className="text-terminal-green text-sm mb-2 font-pixel">Core_Stack</h4>
                         <ul className="text-xs text-gray-500 space-y-2 font-mono">
-                            <li>Python / Pandas/ TensorFlow</li>
-                            <li>Numpy / SQL / Tableau</li>
-                            <li>Scikit-learn / NLTK</li>
+                            <li>Python / Pandas/ Numpy</li>
+                            <li>Pytorch / SQL / Jax</li>
+                            <li>Langchain / Langgraph</li>
                             <li>Streamlit / FastAPI</li>
                         </ul>
                     </div>
@@ -45,13 +45,13 @@ export function About() {
                     <pre className="text-terminal-green overflow-x-auto">
                         {`{
   "Name": "Kiarie Kami Josephat",
-  "Role": "ML Engineer / Data Scientist",
+  "Role": "ML & AI Engineer / Data Scientist",
   "Location": "Nairobi, Kenya",
   "Status": "Available for hire",
   "Interests": [
     "Data Science",
-    "Machine Learning",
-    "Deep Learning",
+    "ML Engineering",
+    "AI Engineering",
     "Python Development",
     "Systems Design"
   ]
